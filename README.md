@@ -4,7 +4,6 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning programming and building projects.
 - 🎯 Goal: Improve my coding skills and build a strong GitHub portfolio.
-- 🎓 Aspiring CSC scholarship candidate.
 
 ## 🛠 Skills
 - Languages: Python | C | C++ | Java (beginner is fine)
