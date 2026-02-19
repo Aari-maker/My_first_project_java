@@ -1,0 +1,6 @@
+public class FileJava5 {
+  public static void main {
+    for(i=5;i<=5; i++);
+    System.out.println(i);
+  }
+}
